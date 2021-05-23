@@ -1,0 +1,10 @@
+body{
+    background-color: blue;
+}
+#eop{
+background-color: rgb(243, 221, 22);
+}
+img{
+    border-radius: 10%;
+    border-block-end-style: double;
+}
